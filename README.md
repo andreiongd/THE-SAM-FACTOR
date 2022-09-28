@@ -1,0 +1,2 @@
+# THE-SAM-FACTOR
+THE SAM FACTOR S type test
